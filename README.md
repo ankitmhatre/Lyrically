@@ -1,17 +1,3 @@
 # Lyrically
-
-An everywhere lyrics app which can be used by simply swiping a part of your screen. See the lyrics without interrupting what you're doing.
-
-
-    Music Players tested : Google Play Music ,Spotify, Phonograph, Shuttle, Poweramp, BlackPlayer
-
-
-
-
-I have plans to make it work with many other music players in the future.
-
-
-
-How to use : https://www.youtube.com/watch?v=g0XidfCGZHU
-
-Download : https://github.com/shkcodes/Lyrically/releases
+An Lyrics app which uses the BroadcastReceiver and Media Notification to Receive the MetaData and Display the Lyrics accordingly.
+ FUrther drastic changes promised .
